@@ -12,12 +12,12 @@ function Header() {
         <div className='header'>
             <Link to="/">
                 <img
-                    className="header__logo" 
+                    className="header__logo"
                     src="http://pngimg.com/uploads/amazon/amazon_PNG11.png"
                     alt="Amazon logo"
                 />
             </Link>
-            
+
             <div
                 className="header__search">
                 <input
@@ -63,7 +63,7 @@ function Header() {
                         <ShoppingBasketIcon />
                         <span className="header_optionLineTwo header__basketCount">
                             {basket?.length}
-                        </span>   
+                        </span>
                     </div>
                 </Link>
             </div>
