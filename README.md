@@ -1,3 +1,10 @@
+# DEMO Amazon Clone
+
+![Home page](https://raw.githubusercontent.com/valisaros/react-amazon-clone/main/DEMO%20pictures/Amazon%20Home%20Page.png)
+![Login page](https://raw.githubusercontent.com/valisaros/react-amazon-clone/main/DEMO%20pictures/Amazon%20Login%20Page.png)
+![Checkout page](https://raw.githubusercontent.com/valisaros/react-amazon-clone/main/DEMO%20pictures/Amazon%20Checkout%20Page.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
