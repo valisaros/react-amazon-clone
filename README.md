@@ -1,4 +1,5 @@
 # DEMO Amazon Clone
+Open [https://clone-amaz-valisaros.web.app](https://clone-amaz-valisaros.web.app) to view it live.
 
 ![Home page](https://raw.githubusercontent.com/valisaros/react-amazon-clone/main/DEMO%20pictures/Amazon%20Home%20Page.png)
 ![Login page](https://raw.githubusercontent.com/valisaros/react-amazon-clone/main/DEMO%20pictures/Amazon%20Login%20Page.png)
